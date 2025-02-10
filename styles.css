@@ -6,7 +6,7 @@ body{
 
 
 .navbar {
-    display:flex;
+    display:inline;
     justify-content: safe;
     color: firebrick;
     padding: 10px;
