@@ -1,0 +1,44 @@
+body{
+    background-color: skyblue;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+.navbar {
+    display:flex;
+    justify-content: safe;
+    color: firebrick;
+    padding: 10px;
+}
+.nav-item {
+    color: white;
+    text-decoration: none;
+    padding: 10px ,15px;
+}
+.nav-item:hover{
+    background-color: black;
+    border-radius: 5px;
+}
+.hero {
+    text-align: center;
+    border:hidden;
+    border-color: blue;
+    padding: 50px;
+}
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+.hero p {
+    font-size: 1.5em;
+}
+.content {
+    padding: 20px;
+}
+.footer {
+    text-align: center;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
